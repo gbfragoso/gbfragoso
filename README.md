@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="/programmer.svg">
+<img align="right" width="400" height="400" src="https://github.com/gbfragoso/gbfragoso/blob/master/programmer.svg">
 
 <br/><br/>
 <br/><br/>
