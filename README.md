@@ -17,4 +17,13 @@
 
 ### Gustavo Fragoso
 
-Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Bachelor in Computer Science by Santa Cruz State University, i'm proficient in various platforms and programming languages, with 5 years of experience in Java programming. Actually working with web scrapping and automation of health systems on Brazil using Jsoup on top of Spring framework
+With over 6 years of experience in the Java ecosystem, I have worked on projects of various scales and technical complexities, with a strong focus on building robust, scalable, and high-performance backend systems. My career path is defined by constant evolution: from legacy system re-engineering and complex data migrations to architecting modern APIs using Spring Boot.
+
+I maintain a keen eye for programming best practices and delivery quality, with active participation in Code Reviews, developer onboarding, and mentorship. I also specialize in implementing automation workflows (WebCrawlers/Scrapers) that directly optimize business processes.
+
+Core Value Proposition:
+
+- Backend Development: Specialist in Java, Spring Framework, and Web Services integration (REST/SOAP).
+- Data Architecture: Advanced experience in relational modeling (PostgreSQL, MySQL), Stored Procedures, and SQL query optimization.
+- DevOps & Agile Culture: Proficiency in Git/Bitbucket for version control and Kanban methodologies (Jira).
+- Quality & Excellence: Focused on Clean Code, maintainability, and continuous improvement of solution usability.
