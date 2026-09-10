@@ -17,11 +17,4 @@
 
 ### Gustavo Fragoso
 
-Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Bachelor in Computer Science by Santa Cruz State University, i'm proficient in various platforms and programming languages, with 5 years of experience in Java programming. Actually working with web scrapping and automation of health systems on Brazil using Jsoup on top of Spring framework.
-
-</br></br>
-<span align="center">
-    <a href="https://github.com/gbfragoso">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbfragoso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbfragoso&layout=compact&langs_count=7&theme=github_dark" />
-</span>
+Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Bachelor in Computer Science by Santa Cruz State University, i'm proficient in various platforms and programming languages, with 5 years of experience in Java programming. Actually working with web scrapping and automation of health systems on Brazil using Jsoup on top of Spring framework
